@@ -549,6 +549,7 @@ h3 {
   border-width: 0;
   margin-bottom: 56px;
   padding: 6px 22px;
+  transition: all var(--animation-time) var(--timing-function);
 }
 
 .buttons li:not(:last-child) {
